@@ -1,5 +1,5 @@
 <?php
-$DBHOST = getenv('qn0cquuabmqczee2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306'); // Set your database host here
+$DBHOST = getenv('qn0cquuabmqczee2.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'); // Set your database host here
 $DBUSER = getenv('l6nrrzmm0lbrxnps'); // Set your database user here
 $DBNAME = getenv('pppj7nrypebol76z'); // Set your database name here
 $DBPW =  getenv('amnemzzudp1ylnxo'); // Set your database password here
