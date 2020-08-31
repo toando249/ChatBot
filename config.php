@@ -1,10 +1,10 @@
 <?php
-$DBHOST = getenv('DBHOST'); // Set your database host here
-$DBUSER = getenv('DBUSER'); // Set your database user here
-$DBNAME = getenv('DBNAME'); // Set your database name here
-$DBPW =  getenv('DBPASS'); // Set your database password here
-$BOT_ID = getenv('BOT_ID');
-$TOKEN = getenv('BOT_TOKEN');
+$DBHOST = getenv('ec2-54-146-91-153.compute-1.amazonaws.com'); // Set your database host here
+$DBUSER = getenv('alxxzzshxwqpxx'); // Set your database user here
+$DBNAME = getenv('d9nlggmagjuct4'); // Set your database name here
+$DBPW =  getenv('71d719b7c6d572dcbacb57220394b5241d3254c05e2fa11bb97bd24e9aeac60b'); // Set your database password here
+$BOT_ID = getenv('5f49cae901c345658fcb4963');
+$TOKEN = getenv('U1ZdYozpo1V8Mry3nmUss1uP6aTFDU6Z2gc3EcVCcwSW7BXwZfngq9HXfle7XaDb');
 
 $NUDE_API_USER = getenv('NUDE_API_USER');
 $NUDE_API_SECRET = getenv('NUDE_API_SECRET');
